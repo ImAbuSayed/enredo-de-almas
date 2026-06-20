@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Enredo de almas
+
+This log tracks the cryptographic history and versioning for the song **Enredo de almas** (enredo-de-almas).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T09:15:21.867004 | `v1` | `d05195d768445310d3022ba67478e0b368ec38002cecd0fc8a08cc8f1fbf3a85` | `768c1e62416f1795960e2d7aec80b2984046d74cb329572ea0394a752a98d9cb` | `2026-06-20_enredo-de-almas-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
