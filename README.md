@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/enredo-de-almas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Enredo de almas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/enredo-de-almas/) |
+| **Get License** | [Get a Licensing Quote for Enredo de almas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/enredo-de-almas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3811)
 
 ---
 
